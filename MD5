@@ -1,8 +1,8 @@
-cd18f176c84e265f0b58d0f17d429bf4 *DESCRIPTION
+cdd9c88b5498d5e6376a422e081f4f17 *DESCRIPTION
 2c760c882f0da090051b32b596b150ba *NAMESPACE
-6ccf532ebe90429b90ddc5e79071e9ba *R/za.test.R
-f2abca2ee61136cd43ac549e22c3a767 *R/zc.test.R
-3148e6116bc0717f96cb734c82639688 *R/zk.test.R
-2fab0cae67ea32b895fda2787f2e4f00 *man/za.test.Rd
-b08cc3364f577bb34b395638e79ef4ba *man/zc.test.Rd
-6f1fca94df27dd1201223f00f8fad558 *man/zk.test.Rd
+3de0eae380c5cbef6128fcda466d1fba *R/za.test.R
+b0e92c5422c8dd6f25667343c90fbe6b *R/zc.test.R
+bbe6a1d8b9618da4068c1d90df2e6e70 *R/zk.test.R
+d66aa86145203ead4c5ac991a6d7fcfb *man/za.test.Rd
+83d33241e83b2950c0c68201e8a03979 *man/zc.test.Rd
+7f43c545c81fbf5afc727aadfcb3e7a0 *man/zk.test.Rd
